@@ -1,1 +1,1 @@
-# Twitter-Bot-Proj
+# Movie Critic Bot
